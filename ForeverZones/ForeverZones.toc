@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: ForeverZones
+## Notes: Shows the type of zone you're in (Forest, Desert, Stronghold...) and the type of creature you target, for WoW: Forever's zone and creature item bonuses.
+## Author: elips
+## Version: 1.0.0
+## Category: Combat
+## SavedVariables: ForeverZonesDB
+
+Kit.lua
+Data.lua
+ForeverZones.lua
+Options.lua
